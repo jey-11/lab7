@@ -1,8 +1,8 @@
-**Step 4:** ssh cs15lfa23fe@ieng6.ucsd.edu \<enter> <br>
+**Step 4:** 'ssh cs15lfa23fe@ieng6.ucsd.edu' \<enter> <br>
 I just typed out the ssh command to login to my ieng6 account <br>
 ![Image](Lab7_S4.png)<br>
 
-**Step 5** git clone git@github.com:ucsd-cse12-f23/cse12-pa7-BST.git<enter> <br>
+**Step 5** 'git clone git@github.com:ucsd-cse12-f23/cse12-pa7-BST.git'<enter> <br>
 I just typed out the command to git clone the forked respository onto my account cloud. <br>
 ![Image](Lab7_S5.png)<br>
 
