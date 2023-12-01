@@ -1,4 +1,4 @@
-**Step 4:** 'ssh cs15lfa23fe@ieng6.ucsd.edu' \<enter> <br>
+**Step 4:** `ssh cs15lfa23fe@ieng6.ucsd.edu` \<enter> <br>
 I just typed out the ssh command to login to my ieng6 account <br>
 ![Image](Lab7_S4.png)<br>
 
