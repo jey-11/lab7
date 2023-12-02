@@ -19,12 +19,12 @@ I ran the shell script that is used to test the ListExamples.java file <br>
 `<down> x37 <right> x12 <backspace> x2` (editing the file)<br>
 `<esc>` (get out of insert mode)<br>
 `:wq` (saves and exits from vim) <br>
-![Image](Lab7_S7_P1.png)
-![Image](Lab7_S7_P2.png)
+![Image](Lab7_S7_P1.png)<br>
+![Image](Lab7_S7_P2.png)<br>
 
 **Step 8** re run the tests <br>
 `<up> x2` (this went up my command history to get to the bash test.sh command) <br>
-![Image](Lab7_S8.png)
+![Image](Lab7_S8.png)<br>
 
 **Step 9:** commit and push to git hub account <br>
 `git add ListExamples.java <enter>` <br>
