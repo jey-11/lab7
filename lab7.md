@@ -9,7 +9,7 @@ I just typed out the command to git clone the forked respository onto my account
 **Step 6:** running the tests<br>
 `cd lab7 <enter>` <br>
 I changed my directory so I would be in the lab7 folder. Enter caused the command to run. <br>
-`bash test.sh \<enter>` <br>
+`bash test.sh <enter>` <br>
 I ran the shell script that is used to test the ListExamples.java file <br>
 ![Image](Lab7_S6.png)<br>
 
